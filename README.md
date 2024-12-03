@@ -1,0 +1,1 @@
+HTML webpage that displays a multiplication table for the first five digits (1 to 5) using table elements. Utilize table headers, table rows, and table data to organize and display the numbers in a clean and structured format.
